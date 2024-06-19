@@ -1,0 +1,10 @@
+﻿review_text,sentiment
+"This product is amazing! I love it.",positive
+"The quality of this product is very poor.",negative
+"I'm satisfied with my purchase.",positive
+"This product exceeded my expectations.",positive
+"I would not recommend this product to others.",negative
+"This item arrived damaged.",negative
+"I'm neutral about this product.",neutral
+"The customer service was excellent.",positive
+

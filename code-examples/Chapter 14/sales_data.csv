@@ -1,0 +1,9 @@
+﻿store_id,product_id,date,sales,promotion,weather
+1,101,2023-01-01,50,False,Sunny
+1,102,2023-01-01,30,False,Sunny
+1,101,2023-01-02,60,False,Cloudy
+1,102,2023-01-02,40,False,Cloudy
+2,201,2023-01-01,70,False,Sunny
+2,202,2023-01-01,45,False,Sunny
+2,201,2023-01-02,80,False,Cloudy
+2,202,2023-01-02,50,False,Cloudy
