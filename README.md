@@ -16,7 +16,7 @@ Welcome to the repository for the book [Python Programming Demystified](https://
 8. [Community](#community)
 
 ## About the Book
-<a href="https://arcchieonline.com/books"><img src="https://m.media-amazon.com/images/I/71CoVef1cpL._SL1500_.jpg" height="300px" align="right"></a>
+<a href="https://arcchieonline.com/books"><img src="/resources/Book Cover - 190.5 x 234.95 mm_Front.jpg" height="300px" align="right"></a>
 _Python Programming Demystified - A Clear and Concise Guide: Your Key to Unlocking Career Opportunities_ is an essential resource designed for beginners, students, and individuals with no coding experience, as well as professionals looking to transition to Python programming. This comprehensive guide aims to provide readers with a solid foundation in programming using the Python language. From fundamental concepts to advanced techniques, this book serves as a steppingstone for mastering Python programming and building a strong coding skillset.
 
 
